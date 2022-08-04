@@ -1,11 +1,32 @@
-# Student Database
+<!-- to start server -->
+# npm run dev 
+<!-- or -->
+# node run start
 
-## Create
-![Capture](https://user-images.githubusercontent.com/45043467/182743423-d8fbcd7a-3933-4c10-bde1-a990d483ab44.PNG)
-## Read
-![Capture2](https://user-images.githubusercontent.com/45043467/182743478-7659de88-8824-4162-80ae-cb87a78427b8.PNG)
-## Update
-![Capture4](https://user-images.githubusercontent.com/45043467/182743493-00403035-c134-4c7b-9875-ace475b4a8c5.PNG)
-## Delete 
-![Capture3](https://user-images.githubusercontent.com/45043467/182743522-db3796e1-4e2d-4ae5-b8c0-c4ded7070d6b.PNG)
+<!-- to start client -->
+# npm start
 
+Note:
+Go to the correct directory
+install node and react modules in correct directory....
+
+To install client modules:
+type " cd client " in terminal and run npm install.....
+
+To install server modules:
+type " cd server " in terminal and run npm install....
+
+than :
+<!-- to start server -->
+# npm run dev 
+<!-- or -->
+# node run start
+
+<!-- to start client -->
+# npm start
+in their correct directory...
+
+
+Backend is running on port 8000
+FrontEnd is running on port 3000
+Thank You....
